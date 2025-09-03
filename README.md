@@ -15,5 +15,21 @@ Systematically solve and document 450 carefully selected problems to develop pro
 ## 🛠️ Topics Covered
 Arrays | Matrices | Strings | Searching & Sorting | LinkedList | Binary Trees | BST | Greedy | Backtracking | Stacks & Queues | Heap | Graph | Trie | Dynamic Programming | Bit Manipulation
 
----
+
+
+## 📋 Problem List
+
+The complete list of 450 DSA problems is available in Excel format:
+
+📥 **[Download DSA450.xlsx](DSA450.xlsx)** (Contains all 450 problems with topics, difficulty levels, and tracking)
+
+### What's in the Excel file:
+- Problem Number
+- Topic/Category
+- Problem Name
+- Difficulty Level
+- LeetCode/GeeksforGeeks Link
+- Status Tracker
+- Notes Section
+
 *Building strong DSA foundations, one problem at a time.*
